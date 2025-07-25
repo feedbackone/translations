@@ -15,7 +15,7 @@
   "Preview": "Preview",
   "Remove": "Remove",
   "Try again": "Try again",
-  "Failed to capture screenshot. {{error}}": "Failed to capture screenshot. {{error}}",
+  "Failed to capture screenshot.": "Failed to capture screenshot.",
   "Email": "Email",
   "If you would like to receive updates related to your feedback, please provide your email address.": "If you would like to receive updates related to your feedback, please provide your email address.",
   "Submit": "Submit",
