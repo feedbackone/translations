@@ -15,7 +15,7 @@
   "Preview": "Förhandsgranska",
   "Remove": "Ta bort",
   "Try again": "Försök igen",
-  "Failed to capture screenshot. {{error}}": "Misslyckades med att ta skärmbild. {{error}}",
+  "Failed to capture screenshot.": "Misslyckades med att ta skärmbild.",
   "Email": "E-post",
   "If you would like to receive updates related to your feedback, please provide your email address.": "Om du vill få uppdateringar om din feedback, vänligen ange din e-postadress.",
   "Submit": "Skicka in",
