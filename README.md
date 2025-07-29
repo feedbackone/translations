@@ -1,5 +1,16 @@
 # [Feedback.one](https://feedback.one/) form translations
 
+We currently support the following languages:
+- Armenian (`hy`)
+- Brazilian Portuguese (`pt-BR`)
+- Dutch (`nl`)
+- English (`en`)
+- German (`de`)
+- Swiss German (`de-CH`)
+- Italian (`it`)
+- Russian (`ru`)
+- Swedish (`sv`)
+
 To add a translation for your desired language, please follow the instructions below:
 
 - Add a `.json` file with the [ISO language code](https://www.w3schools.com/tags/ref_language_codes.asp) of the desired language to the `locales` folder.
