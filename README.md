@@ -5,9 +5,9 @@ We currently support the following languages:
 - Brazilian Portuguese (`pt-BR`)
 - Dutch (`nl`)
 - English (`en`)
-- German (`de`)
-- Swiss German (`de-CH`)
+- German (`de`), Swiss German (`de-CH`)
 - Italian (`it`)
+- Romanian (`ro`)
 - Russian (`ru`)
 - Swedish (`sv`)
 
