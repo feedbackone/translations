@@ -7,6 +7,7 @@ We currently support the following languages:
 - English (`en`)
 - German (`de`), Swiss German (`de-CH`)
 - Italian (`it`)
+- Polish (`pl`)
 - Romanian (`ro`)
 - Russian (`ru`)
 - Swedish (`sv`)
