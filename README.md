@@ -5,6 +5,7 @@ We currently support the following languages:
 - Brazilian Portuguese (`pt-BR`)
 - Dutch (`nl`)
 - English (`en`)
+- French (`fr`), French Canadian (`fr-CA`)
 - German (`de`), Swiss German (`de-CH`)
 - Italian (`it`)
 - Polish (`pl`)
